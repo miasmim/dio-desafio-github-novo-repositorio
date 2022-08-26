@@ -1,0 +1,4 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Sintaxes markdown: https://www.markdownguide.org/basic-syntax/
+Emotes em markdown: https://gist.github.com/rxaviers/7360908
